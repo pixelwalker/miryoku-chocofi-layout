@@ -148,7 +148,7 @@
                         &kp C_MENU  &kp SPACE  &kp TAB            &none  &none            &none
             >;
 
-            label = "Fun";
+            label = "Funn";
         };
     };
 };
