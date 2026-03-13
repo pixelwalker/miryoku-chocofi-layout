@@ -83,3 +83,5 @@ MIT License — free to remix, adapt, and share.
 - [Pavel Glushkov](https://github.com/pavlukhin) – Chocofi Keyboard
 - [Manna Harbour](https://github.com/manna-harbour/miryoku) – Miryoku Layout
 - [Nick Coutsos](https://github.com/nickcoutsos/keymap-editor) – Keymap Editor
+
+  update
